@@ -1,0 +1,10 @@
+{
+  "name": "@kiyasov/events",
+  "description": "React Events",
+  "main": "lib/index.js",
+  "authors": ["Islam Kiyasov"],
+  "license": "ISC",
+  "keywords": ["noty", "react", "events", "event", "reactJs", "reactJS"],
+  "homepage": "https://github.com/kiyasov/reactEvents",
+  "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests"]
+}
